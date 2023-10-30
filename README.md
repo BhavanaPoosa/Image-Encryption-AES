@@ -1,5 +1,4 @@
 # Image-Encryption-AES
-# Image Encryption using AES
 
 Securely encrypt and decrypt images using the Advanced Encryption Standard (AES) algorithm. This project is designed for client-side image encryption and decryption, and it provides a server-side API for handling image storage and retrieval.
 
