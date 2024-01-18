@@ -19,6 +19,8 @@ Securely encrypt and decrypt images using the Advanced Encryption Standard (AES)
 ### Cloud Storage:
 - **Firebase Account:** To set up Firebase Cloud Storage and integrate it with your project.
 
+### Use-Case: Healthcare sensitive image sharing platform
+
 ### Usage:
 - Sign in to your web application with valid credentials.
 - Upload an image for encryption.
